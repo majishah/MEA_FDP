@@ -1,6 +1,5 @@
 # Ridge & Lasso Regression — Diabetes Dataset
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/YOUR_COLAB_LINK_HERE)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VtH0xdTjD4Hwdj3dSn1gdAL7f64yAdi7?authuser=1)
 
 Compare Standard Linear Regression, Ridge (L2), and Lasso (L1) regularization on the Diabetes dataset. Hyperparameters tuned using cross-validation.
 
