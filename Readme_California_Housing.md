@@ -1,6 +1,6 @@
 # Linear Regression with One Variable — California Housing Dataset
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/111jlEKOa87skbKKWpiw7p4TwC930_owF?authuser=1#scrollTo=XTSS2t9aKNHk)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/111jlEKOa87skbKKWpiw7p4TwC930_owF)
 
 A from-scratch implementation of Simple Linear Regression to predict California housing prices using a single feature (average number of rooms per dwelling).
 
