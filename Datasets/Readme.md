@@ -1,12 +1,12 @@
 # 📚 Machine Learning Foundations — FDP Workshop Resources
 
-### Simple Downloadable Datasets for a 90-Minute Faculty Development Program
+### Simple Downloadable Datasets for Faculty Development Program
 
 This repository contains all the resources, dataset links, and guidance for the **Machine Learning Foundations** FDP workshop. Each dataset represents one type of data commonly used in AI, Data Science, and Machine Learning — explained through a **human learning lens**.
 
 ---
 
-## 🎯 Workshop Theme
+## 🎯 Theme of First Day(18-05-2026
 
 > *"Machines learn the way humans do — from experience. They just do it faster."*
 
@@ -225,34 +225,6 @@ print(df[['lat', 'lon', 'altitude', 'date', 'time']].head())
 
 **Workshop Activity:** Plot routes on a map, explain navigation and tracking.
 
----
-
-## ⏱️ Suggested 90-Minute Workshop Flow
-
-| Time | Activity | Dataset |
-|------|----------|---------|
-| 10 min | Introduction to Data Types — The Human Analogy | — |
-| 10 min | Numerical Data Demo | Iris |
-| 10 min | Text Data Demo | SMS Spam |
-| 10 min | Sensor Data Demo | HAR Smartphones |
-| 10 min | Voice Data Demo | FSDD |
-| 10 min | Image Data Demo | MNIST |
-| 10 min | Video Data Demo | UCF101 |
-| 10 min | GPS Data Demo | GeoLife |
-| 10 min | Q&A and Discussion | — |
-
----
-
-## 🛠️ Recommended Tools
-
-| Tool | Purpose | Link |
-|------|---------|------|
-| **Google Colab** | Run Python code in browser (no setup!) | [colab.research.google.com](https://colab.research.google.com) |
-| **Python + Jupyter** | Local notebook environment | [jupyter.org](https://jupyter.org) |
-| **Excel** | Quick numerical data exploration | Pre-installed |
-| **Orange Data Mining** | Visual, no-code ML tool | [orangedatamining.com](https://orangedatamining.com) |
-
----
 
 ## 🔧 Quick Setup for Participants
 
@@ -270,33 +242,6 @@ Install these Python libraries:
 pip install numpy pandas matplotlib scikit-learn librosa
 ```
 
----
-
-## 💡 Best Teaching Tips
-
-Use **one real-life example** for each dataset type to connect with the audience:
-
-| Dataset Type | Real-Life Example Everyone Knows |
-|-------------|--------------------------------|
-| Numerical | Student marks in an exam |
-| Text | WhatsApp / SMS messages |
-| Sensor | Smartwatch step counter |
-| Voice | Alexa / Google Assistant |
-| Image | Face unlock on your phone |
-| Video | CCTV security camera analytics |
-| GPS | Google Maps navigation |
-
----
-
-## 📌 Important Notes for Participants
-
-1. **You don't need to download all datasets.** The instructor will demo each one during the workshop. Download later and practice at home.
-2. **Google Colab is the easiest way to start.** No installation, no setup — just a browser and a Google account.
-3. **Some datasets (MNIST, Iris) can be loaded directly in Python** without downloading anything. The code snippets above show how.
-4. **Large datasets (UCF101, GeoLife) are for demonstration only.** Don't try to download them during the workshop — the Wi-Fi will thank you! 😄
-5. **Focus on understanding the data type**, not the code. The code is provided for your reference to practice later.
-
----
 
 ## 📝 License
 
