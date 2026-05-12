@@ -6,7 +6,7 @@ This repository contains all the resources, dataset links, and guidance for the 
 
 ---
 
-## 🎯 Theme of First Day(18-05-2026
+## 🎯 Theme of First Day(18-05-2026)
 
 > *"Machines learn the way humans do — from experience. They just do it faster."*
 
